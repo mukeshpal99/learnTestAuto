@@ -1,0 +1,55 @@
+2016-06-21 14:45:21 [main] INFO  file Message:23 - Finding element by identifier Email using id
+2016-06-21 14:45:23 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-21 14:45:23 [main] INFO  file Message:23 - Finding element by identifier next using id
+2016-06-21 14:45:23 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> id: next]
+2016-06-21 14:45:23 [main] INFO  file Message:23 - Finding element by identifier Passwd using id
+2016-06-21 14:45:24 [main] INFO  file Message:23 - Setting the text area with string: teitotestprojectpwd
+2016-06-21 14:45:24 [main] INFO  file Message:23 - Finding element by identifier signIn using id
+2016-06-21 14:45:24 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> id: signIn]
+2016-06-21 14:45:24 [main] INFO  file Message:23 - Finding element by identifier //a[contains(@title,'Inbox')] using xpath
+2016-06-21 14:45:29 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: //a[contains(@title,'Inbox')]]
+2016-06-21 14:45:29 [main] INFO  file Message:23 - Finding element by identifier //div[text()='COMPOSE'] using xpath
+2016-06-21 14:45:29 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: //div[text()='COMPOSE']]
+2016-06-21 14:45:30 [main] INFO  file Message:23 - Finding element by identifier to using name
+2016-06-21 14:45:30 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-21 14:45:31 [main] INFO  file Message:23 - Finding element by identifier subjectbox using name
+2016-06-21 14:45:31 [main] INFO  file Message:23 - Setting the text area with string: Test Subject
+2016-06-21 14:45:32 [main] INFO  file Message:23 - Finding element by identifier //div[@aria-label='Message Body'] using xpath
+2016-06-21 14:45:32 [main] INFO  file Message:23 - Setting the text area with string: Test Msg Body
+2016-06-21 14:45:32 [main] INFO  file Message:23 - Finding element by identifier //div[text()='Send'] using xpath
+2016-06-21 14:45:32 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: //div[text()='Send']]
+2016-06-21 14:45:33 [main] INFO  file Message:23 - Getting the text value...
+2016-06-21 14:45:33 [main] INFO  file Message:23 - Finding element by identifier //*[text()[contains(.,'Your message has been sent')]] using xpath
+2016-06-21 14:45:34 [main] INFO  file Message:23 - The text value is:Your message has been sent. View message
+2016-06-21 14:45:34 [main] INFO  file Message:23 - Finding element by identifier //div[@gh='s']/*[@role='button'] using xpath
+2016-06-21 14:45:34 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: //div[@gh='s']/*[@role='button']]
+2016-06-21 14:45:34 [main] INFO  file Message:23 - Finding element by identifier ms using id
+2016-06-21 14:45:34 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> id: ms]
+2016-06-21 14:45:35 [main] INFO  file Message:23 - Finding element by identifier //label[text()='Vacation responder on']/../../..//input using xpath
+2016-06-21 14:45:36 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: //label[text()='Vacation responder on']/../../..//input]
+2016-06-21 14:45:36 [main] INFO  file Message:23 - Finding element by identifier //label[text()='First day:']/../../td[3]//input using xpath
+2016-06-21 14:45:36 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: //label[text()='First day:']/../../td[3]//input]
+2016-06-21 14:45:37 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: (//table/tbody//td[text()='22'])[1]]
+2016-06-21 14:45:37 [main] INFO  file Message:23 - Finding element by identifier //input[@aria-label='Subject'] using xpath
+2016-06-21 14:45:37 [main] INFO  file Message:23 - Setting the text area with string: Out Of Office
+2016-06-21 14:45:37 [main] INFO  file Message:23 - Finding element by identifier //div[@aria-label='Vacation responder'] using xpath
+2016-06-21 14:45:37 [main] INFO  file Message:23 - Setting the text area with string: Annual Leave
+2016-06-21 14:45:37 [main] INFO  file Message:23 - Finding element by identifier //button[text()='Save Changes'] using xpath
+2016-06-21 14:45:37 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: //button[text()='Save Changes']]
+2016-06-21 14:45:37 [main] INFO  file Message:23 - Finding element by identifier //div[@gh='s']/*[@role='button'] using xpath
+2016-06-21 14:45:37 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: //div[@gh='s']/*[@role='button']]
+2016-06-21 14:45:37 [main] INFO  file Message:23 - Finding element by identifier ms using id
+2016-06-21 14:45:38 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> id: ms]
+2016-06-21 14:45:38 [main] INFO  file Message:23 - Finding element by identifier //label[text()='Vacation responder on']/../../..//input using xpath
+2016-06-21 14:45:38 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: //a[contains(@title,'teitotestproject@gmail.com')]]
+2016-06-21 14:45:38 [main] INFO  file Message:23 - Finding element by identifier //a[text()='Sign out'] using xpath
+2016-06-21 14:45:38 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (65d2038d4068da93c1d8465416373b4b)] -> xpath: //a[text()='Sign out']]
+2016-06-21 14:45:48 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-21 14:45:49 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (3d04587e5053fddf821976b25fba9ca5)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-21 14:45:49 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-21 14:45:50 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-21 14:45:51 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-21 14:45:51 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-21 14:45:51 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-21 14:45:52 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (3d04587e5053fddf821976b25fba9ca5)] -> id: signInSubmit]
+2016-06-21 14:45:52 [main] INFO  file Message:23 - Waiting for time: 20 seconds 

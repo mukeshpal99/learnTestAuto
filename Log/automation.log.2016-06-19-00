@@ -1,0 +1,8 @@
+2016-06-19 00:03:06 [main] INFO  file Message:23 - Finding element by identifier Email using id
+2016-06-19 00:03:06 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 00:03:06 [main] INFO  file Message:23 - Finding element by identifier next using id
+2016-06-19 00:03:06 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (910a971a79eaaed864a463558e9ab919)] -> id: next]
+2016-06-19 00:03:06 [main] INFO  file Message:23 - Finding element by identifier Passwd using id
+2016-06-19 00:03:07 [main] INFO  file Message:23 - Setting the text area with string: teitotestprojectpwd
+2016-06-19 00:03:07 [main] INFO  file Message:23 - Finding element by identifier signIn using id
+2016-06-19 00:03:07 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (910a971a79eaaed864a463558e9ab919)] -> id: signIn]

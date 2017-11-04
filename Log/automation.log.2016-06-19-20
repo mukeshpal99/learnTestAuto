@@ -1,0 +1,421 @@
+2016-06-19 20:00:03 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (ae23be8a634b776b639cf9377dd8b077)] -> xpath: //button//span[text()='2 TB']]
+2016-06-19 20:00:03 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (ae23be8a634b776b639cf9377dd8b077)] -> xpath: //button//img[@alt='Silver']]
+2016-06-19 20:00:03 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:00:14 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (ae23be8a634b776b639cf9377dd8b077)] -> xpath: //button//img[@alt='Black']]
+2016-06-19 20:00:14 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:00:16 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (ae23be8a634b776b639cf9377dd8b077)] -> xpath: //button//img[@alt='Blue']]
+2016-06-19 20:00:16 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:00:18 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (ae23be8a634b776b639cf9377dd8b077)] -> xpath: //button//img[@alt='White']]
+2016-06-19 20:00:18 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:00:21 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (ae23be8a634b776b639cf9377dd8b077)] -> xpath: //button//img[@alt='Red']]
+2016-06-19 20:00:21 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:00:23 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (ae23be8a634b776b639cf9377dd8b077)] -> xpath: //button//img[@alt='Rose Gold']]
+2016-06-19 20:00:23 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:00:25 [main] INFO  file Message:23 - Selecting the dropdown element 2
+2016-06-19 20:00:25 [main] INFO  file Message:23 - Finding element by identifier quantity using id
+2016-06-19 20:00:25 [main] INFO  file Message:23 - Finding element by identifier add-to-cart-button using id
+2016-06-19 20:00:25 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (ae23be8a634b776b639cf9377dd8b077)] -> id: add-to-cart-button]
+2016-06-19 20:00:25 [main] INFO  file Message:23 - Finding element by identifier (//a[text()[contains(.,'Proceed to checkout')]])[1] using xpath
+2016-06-19 20:00:28 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (ae23be8a634b776b639cf9377dd8b077)] -> xpath: (//a[text()[contains(.,'Proceed to checkout')]])[1]]
+2016-06-19 20:00:28 [main] INFO  file Message:23 - Finding element by identifier //span/a[contains(@href,'shipaddress_ship_to_this')] using xpath
+2016-06-19 20:00:33 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (ae23be8a634b776b639cf9377dd8b077)] -> xpath: //span/a[contains(@href,'shipaddress_ship_to_this')]]
+2016-06-19 20:00:33 [main] INFO  file Message:23 - Finding element by identifier (.//*[@id='shippingOptionFormId']//input[@value='Continue'])[3] using xpath
+2016-06-19 20:07:51 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:07:51 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:07:51 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:07:56 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:07:56 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:07:56 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:07:56 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:07:56 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> id: signInSubmit]
+2016-06-19 20:07:57 [main] INFO  file Message:23 - Finding element by identifier twotabsearchtextbox using id
+2016-06-19 20:08:06 [main] INFO  file Message:23 - Setting the text area with string: Hard Disk
+2016-06-19 20:08:06 [main] INFO  file Message:23 - Finding element by identifier //input[@value='Go'] using xpath
+2016-06-19 20:08:06 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //input[@value='Go']]
+2016-06-19 20:08:08 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //a[contains(@title,'Seagate Backup Plus Slim')]]
+2016-06-19 20:08:09 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:08:19 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //button//span[text()='2 TB']]
+2016-06-19 20:08:19 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //button//img[@alt='Silver']]
+2016-06-19 20:08:19 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:08:22 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //button//img[@alt='Black']]
+2016-06-19 20:08:22 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:08:29 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //button//img[@alt='Blue']]
+2016-06-19 20:08:29 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:08:31 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //button//img[@alt='White']]
+2016-06-19 20:08:31 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:08:33 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //button//img[@alt='Red']]
+2016-06-19 20:08:33 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:08:36 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //button//img[@alt='Rose Gold']]
+2016-06-19 20:08:36 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:08:38 [main] INFO  file Message:23 - Selecting the dropdown element 2
+2016-06-19 20:08:38 [main] INFO  file Message:23 - Finding element by identifier quantity using id
+2016-06-19 20:08:38 [main] INFO  file Message:23 - Finding element by identifier add-to-cart-button using id
+2016-06-19 20:08:38 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> id: add-to-cart-button]
+2016-06-19 20:08:38 [main] INFO  file Message:23 - Finding element by identifier (//a[text()[contains(.,'Proceed to checkout')]])[1] using xpath
+2016-06-19 20:08:45 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: (//a[text()[contains(.,'Proceed to checkout')]])[1]]
+2016-06-19 20:08:45 [main] INFO  file Message:23 - Finding element by identifier //span/a[contains(@href,'shipaddress_ship_to_this')] using xpath
+2016-06-19 20:08:46 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //span/a[contains(@href,'shipaddress_ship_to_this')]]
+2016-06-19 20:08:46 [main] INFO  file Message:23 - Finding element by identifier (//*[@id='shippingOptionFormId']//input[@value='Continue'])[3] using xpath
+2016-06-19 20:08:48 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: (//*[@id='shippingOptionFormId']//input[@value='Continue'])[3]]
+2016-06-19 20:08:49 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //input[contains(@value,'CreditCard')]]
+2016-06-19 20:08:49 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //input[contains(@value,'DebitCard')]]
+2016-06-19 20:08:49 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //input[contains(@value,'netBanking')]]
+2016-06-19 20:08:50 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //input[contains(@value,'cashOnDelivery')]]
+2016-06-19 20:08:50 [main] INFO  file Message:23 - Finding element by identifier //a[text()='help pages'] using xpath
+2016-06-19 20:08:50 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (83d239622a7f8ef4cdff8852956de5ef)] -> xpath: //a[text()='help pages']]
+2016-06-19 20:08:50 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:09:00 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:10:28 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:10:28 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (4e09b6b29d6f37223226eb4401d2d3d9)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:10:28 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:10:31 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:10:31 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:10:32 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:10:32 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:10:32 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (4e09b6b29d6f37223226eb4401d2d3d9)] -> id: signInSubmit]
+2016-06-19 20:10:32 [main] INFO  file Message:23 - Finding element by identifier twotabsearchtextbox using id
+2016-06-19 20:10:37 [main] INFO  file Message:23 - Setting the text area with string: Hard Disk
+2016-06-19 20:10:38 [main] INFO  file Message:23 - Finding element by identifier //input[@value='Go'] using xpath
+2016-06-19 20:10:38 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (4e09b6b29d6f37223226eb4401d2d3d9)] -> xpath: //input[@value='Go']]
+2016-06-19 20:14:41 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:14:47 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:14:47 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:14:51 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:14:52 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:14:52 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:14:52 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:14:52 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> id: signInSubmit]
+2016-06-19 20:14:52 [main] INFO  file Message:23 - Finding element by identifier twotabsearchtextbox using id
+2016-06-19 20:14:59 [main] INFO  file Message:23 - Setting the text area with string: Hard Disk
+2016-06-19 20:15:12 [main] INFO  file Message:23 - Finding element by identifier //input[@value='Go'] using xpath
+2016-06-19 20:15:12 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //input[@value='Go']]
+2016-06-19 20:15:14 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //a[contains(@title,'Seagate Backup Plus Slim')]]
+2016-06-19 20:15:14 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:15:27 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //button//span[text()='2 TB']]
+2016-06-19 20:15:27 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //button//img[@alt='Silver']]
+2016-06-19 20:15:27 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:15:29 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //button//img[@alt='Black']]
+2016-06-19 20:15:29 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:15:32 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //button//img[@alt='Blue']]
+2016-06-19 20:15:32 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:15:34 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //button//img[@alt='White']]
+2016-06-19 20:15:34 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:15:36 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //button//img[@alt='Red']]
+2016-06-19 20:15:36 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:15:38 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //button//img[@alt='Rose Gold']]
+2016-06-19 20:15:38 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:15:40 [main] INFO  file Message:23 - Selecting the dropdown element 2
+2016-06-19 20:15:40 [main] INFO  file Message:23 - Finding element by identifier quantity using id
+2016-06-19 20:15:41 [main] INFO  file Message:23 - Finding element by identifier add-to-cart-button using id
+2016-06-19 20:15:41 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> id: add-to-cart-button]
+2016-06-19 20:15:41 [main] INFO  file Message:23 - Finding element by identifier (//a[text()[contains(.,'Proceed to checkout')]])[1] using xpath
+2016-06-19 20:15:43 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: (//a[text()[contains(.,'Proceed to checkout')]])[1]]
+2016-06-19 20:15:43 [main] INFO  file Message:23 - Finding element by identifier //span/a[contains(@href,'shipaddress_ship_to_this')] using xpath
+2016-06-19 20:15:44 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:15:54 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //span/a[contains(@href,'shipaddress_ship_to_this')]]
+2016-06-19 20:15:55 [main] INFO  file Message:23 - Finding element by identifier (//*[@id='shippingOptionFormId']//input[@value='Continue'])[3] using xpath
+2016-06-19 20:15:56 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: (//*[@id='shippingOptionFormId']//input[@value='Continue'])[3]]
+2016-06-19 20:15:58 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //input[contains(@value,'CreditCard')]]
+2016-06-19 20:15:58 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //input[contains(@value,'DebitCard')]]
+2016-06-19 20:15:59 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //input[contains(@value,'netBanking')]]
+2016-06-19 20:15:59 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //input[contains(@value,'cashOnDelivery')]]
+2016-06-19 20:15:59 [main] INFO  file Message:23 - Finding element by identifier //a[text()='help pages'] using xpath
+2016-06-19 20:15:59 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (19e82bfc985fb69d68d124b07bce8d2a)] -> xpath: //a[text()='help pages']]
+2016-06-19 20:15:59 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:17:04 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:17:04 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:17:04 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:17:09 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:17:09 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:17:10 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:17:10 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:17:10 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> id: signInSubmit]
+2016-06-19 20:17:10 [main] INFO  file Message:23 - Finding element by identifier twotabsearchtextbox using id
+2016-06-19 20:17:16 [main] INFO  file Message:23 - Setting the text area with string: Hard Disk
+2016-06-19 20:17:16 [main] INFO  file Message:23 - Finding element by identifier //input[@value='Go'] using xpath
+2016-06-19 20:17:17 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //input[@value='Go']]
+2016-06-19 20:17:18 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //a[contains(@title,'Seagate Backup Plus Slim')]]
+2016-06-19 20:17:19 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:17:29 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //button//span[text()='2 TB']]
+2016-06-19 20:17:29 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //button//img[@alt='Silver']]
+2016-06-19 20:17:29 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:17:38 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //button//img[@alt='Black']]
+2016-06-19 20:17:38 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:17:40 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //button//img[@alt='Blue']]
+2016-06-19 20:17:40 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:17:42 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //button//img[@alt='White']]
+2016-06-19 20:17:42 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:17:44 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //button//img[@alt='Red']]
+2016-06-19 20:17:45 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:17:47 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //button//img[@alt='Rose Gold']]
+2016-06-19 20:17:47 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:17:49 [main] INFO  file Message:23 - Selecting the dropdown element 2
+2016-06-19 20:17:49 [main] INFO  file Message:23 - Finding element by identifier quantity using id
+2016-06-19 20:17:49 [main] INFO  file Message:23 - Finding element by identifier add-to-cart-button using id
+2016-06-19 20:17:49 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> id: add-to-cart-button]
+2016-06-19 20:17:49 [main] INFO  file Message:23 - Finding element by identifier (//a[text()[contains(.,'Proceed to checkout')]])[1] using xpath
+2016-06-19 20:17:51 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: (//a[text()[contains(.,'Proceed to checkout')]])[1]]
+2016-06-19 20:17:51 [main] INFO  file Message:23 - Finding element by identifier //span/a[contains(@href,'shipaddress_ship_to_this')] using xpath
+2016-06-19 20:17:54 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //span/a[contains(@href,'shipaddress_ship_to_this')]]
+2016-06-19 20:17:54 [main] INFO  file Message:23 - Finding element by identifier (//*[@id='shippingOptionFormId']//input[@value='Continue'])[3] using xpath
+2016-06-19 20:17:56 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: (//*[@id='shippingOptionFormId']//input[@value='Continue'])[3]]
+2016-06-19 20:17:57 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //input[contains(@value,'CreditCard')]]
+2016-06-19 20:17:57 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //input[contains(@value,'DebitCard')]]
+2016-06-19 20:17:57 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //input[contains(@value,'netBanking')]]
+2016-06-19 20:17:58 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //input[contains(@value,'cashOnDelivery')]]
+2016-06-19 20:17:58 [main] INFO  file Message:23 - Finding element by identifier //a[text()='help pages'] using xpath
+2016-06-19 20:17:58 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c1209397cc9ac283ca726f295d7c3522)] -> xpath: //a[text()='help pages']]
+2016-06-19 20:17:58 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:18:08 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:19:30 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:19:30 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (69294ec971986ece3b4edd9146627fb6)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:19:30 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:19:32 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:19:32 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:19:33 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:19:33 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:19:33 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (69294ec971986ece3b4edd9146627fb6)] -> id: signInSubmit]
+2016-06-19 20:19:33 [main] INFO  file Message:23 - Finding element by identifier twotabsearchtextbox using id
+2016-06-19 20:19:45 [main] INFO  file Message:23 - Setting the text area with string: Hard Disk
+2016-06-19 20:19:45 [main] INFO  file Message:23 - Finding element by identifier //input[@value='Go'] using xpath
+2016-06-19 20:19:45 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (69294ec971986ece3b4edd9146627fb6)] -> xpath: //input[@value='Go']]
+2016-06-19 20:22:56 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:22:56 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:22:56 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:23:02 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:23:02 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:23:02 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:23:02 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:23:02 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> id: signInSubmit]
+2016-06-19 20:23:02 [main] INFO  file Message:23 - Finding element by identifier twotabsearchtextbox using id
+2016-06-19 20:23:11 [main] INFO  file Message:23 - Setting the text area with string: Hard Disk
+2016-06-19 20:23:11 [main] INFO  file Message:23 - Finding element by identifier //input[@value='Go'] using xpath
+2016-06-19 20:23:11 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //input[@value='Go']]
+2016-06-19 20:23:14 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //a[contains(@title,'Seagate Backup Plus Slim')]]
+2016-06-19 20:23:14 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:23:24 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //button//span[text()='2 TB']]
+2016-06-19 20:23:24 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //button//img[@alt='Silver']]
+2016-06-19 20:23:24 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:23:27 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //button//img[@alt='Black']]
+2016-06-19 20:23:27 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:23:29 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //button//img[@alt='Blue']]
+2016-06-19 20:23:29 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:23:31 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //button//img[@alt='White']]
+2016-06-19 20:23:31 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:23:33 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //button//img[@alt='Red']]
+2016-06-19 20:23:33 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:23:36 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //button//img[@alt='Rose Gold']]
+2016-06-19 20:23:36 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:23:38 [main] INFO  file Message:23 - Selecting the dropdown element 2
+2016-06-19 20:23:38 [main] INFO  file Message:23 - Finding element by identifier quantity using id
+2016-06-19 20:23:38 [main] INFO  file Message:23 - Finding element by identifier add-to-cart-button using id
+2016-06-19 20:23:38 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> id: add-to-cart-button]
+2016-06-19 20:23:38 [main] INFO  file Message:23 - Finding element by identifier (//a[text()[contains(.,'Proceed to checkout')]])[1] using xpath
+2016-06-19 20:23:40 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: (//a[text()[contains(.,'Proceed to checkout')]])[1]]
+2016-06-19 20:23:40 [main] INFO  file Message:23 - Finding element by identifier //span/a[contains(@href,'shipaddress_ship_to_this')] using xpath
+2016-06-19 20:23:42 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //span/a[contains(@href,'shipaddress_ship_to_this')]]
+2016-06-19 20:23:42 [main] INFO  file Message:23 - Finding element by identifier (//*[@id='shippingOptionFormId']//input[@value='Continue'])[3] using xpath
+2016-06-19 20:23:44 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:23:54 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: (//*[@id='shippingOptionFormId']//input[@value='Continue'])[3]]
+2016-06-19 20:23:55 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //input[contains(@value,'CreditCard')]]
+2016-06-19 20:23:55 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //input[contains(@value,'DebitCard')]]
+2016-06-19 20:23:55 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //input[contains(@value,'netBanking')]]
+2016-06-19 20:23:55 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //input[contains(@value,'cashOnDelivery')]]
+2016-06-19 20:23:55 [main] INFO  file Message:23 - Finding element by identifier //a[text()='help pages'] using xpath
+2016-06-19 20:23:55 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (1412dfc221b796054b0a7a8e4bbb5d8d)] -> xpath: //a[text()='help pages']]
+2016-06-19 20:23:55 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:24:05 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:26:16 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:26:16 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:26:16 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:26:19 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:26:20 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:26:20 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:26:20 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:26:20 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> id: signInSubmit]
+2016-06-19 20:26:20 [main] INFO  file Message:23 - Finding element by identifier twotabsearchtextbox using id
+2016-06-19 20:26:27 [main] INFO  file Message:23 - Setting the text area with string: Hard Disk
+2016-06-19 20:26:27 [main] INFO  file Message:23 - Finding element by identifier //input[@value='Go'] using xpath
+2016-06-19 20:26:27 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //input[@value='Go']]
+2016-06-19 20:26:28 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //a[contains(@title,'Seagate Backup Plus Slim')]]
+2016-06-19 20:26:29 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:26:39 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //button//span[text()='2 TB']]
+2016-06-19 20:26:39 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //button//img[@alt='Silver']]
+2016-06-19 20:26:39 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:26:41 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //button//img[@alt='Black']]
+2016-06-19 20:26:42 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:26:49 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //button//img[@alt='Blue']]
+2016-06-19 20:26:49 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:26:51 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //button//img[@alt='White']]
+2016-06-19 20:26:51 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:26:53 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //button//img[@alt='Red']]
+2016-06-19 20:26:53 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:26:55 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //button//img[@alt='Rose Gold']]
+2016-06-19 20:26:55 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:26:57 [main] INFO  file Message:23 - Selecting the dropdown element 2
+2016-06-19 20:26:57 [main] INFO  file Message:23 - Finding element by identifier quantity using id
+2016-06-19 20:26:58 [main] INFO  file Message:23 - Finding element by identifier add-to-cart-button using id
+2016-06-19 20:26:58 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> id: add-to-cart-button]
+2016-06-19 20:26:58 [main] INFO  file Message:23 - Finding element by identifier (//a[text()[contains(.,'Proceed to checkout')]])[1] using xpath
+2016-06-19 20:27:01 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: (//a[text()[contains(.,'Proceed to checkout')]])[1]]
+2016-06-19 20:27:01 [main] INFO  file Message:23 - Finding element by identifier //span/a[contains(@href,'shipaddress_ship_to_this')] using xpath
+2016-06-19 20:27:03 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:27:13 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //span/a[contains(@href,'shipaddress_ship_to_this')]]
+2016-06-19 20:27:13 [main] INFO  file Message:23 - Finding element by identifier (//*[@id='shippingOptionFormId']//input[@value='Continue'])[3] using xpath
+2016-06-19 20:27:15 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: (//*[@id='shippingOptionFormId']//input[@value='Continue'])[3]]
+2016-06-19 20:27:16 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //input[contains(@value,'CreditCard')]]
+2016-06-19 20:27:16 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //input[contains(@value,'DebitCard')]]
+2016-06-19 20:27:16 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //input[contains(@value,'netBanking')]]
+2016-06-19 20:27:16 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //input[contains(@value,'cashOnDelivery')]]
+2016-06-19 20:27:16 [main] INFO  file Message:23 - Finding element by identifier //a[text()='help pages'] using xpath
+2016-06-19 20:27:17 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2967001aad90747e273854183775a3cf)] -> xpath: //a[text()='help pages']]
+2016-06-19 20:27:17 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:27:27 [main] INFO  file Message:23 - Switched to window index #2. Window handle :: [CDwindow-CD2C49B4-D7A5-4CEE-A3AA-3D09488FDCA2].
+2016-06-19 20:27:27 [main] INFO  file Message:23 - Switched window title :: Amazon.in Help
+2016-06-19 20:27:27 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:27:27 [main] INFO  file Message:23 - Finding element by identifier nav-item-signout using id
+2016-06-19 20:30:12 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:30:12 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (94398c918ddfaeb108b47fabddc37c4e)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:30:12 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:30:14 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:30:15 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:30:15 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:30:15 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:30:15 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (94398c918ddfaeb108b47fabddc37c4e)] -> id: signInSubmit]
+2016-06-19 20:30:19 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:30:30 [main] INFO  file Message:23 - Finding element by identifier nav-item-signout using id
+2016-06-19 20:32:38 [main] INFO  file Message:23 - Finding element by identifier Email using id
+2016-06-19 20:32:38 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:32:39 [main] INFO  file Message:23 - Finding element by identifier next using id
+2016-06-19 20:32:39 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> id: next]
+2016-06-19 20:32:39 [main] INFO  file Message:23 - Finding element by identifier Passwd using id
+2016-06-19 20:32:40 [main] INFO  file Message:23 - Setting the text area with string: teitotestprojectpwd
+2016-06-19 20:32:40 [main] INFO  file Message:23 - Finding element by identifier signIn using id
+2016-06-19 20:32:40 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> id: signIn]
+2016-06-19 20:32:40 [main] INFO  file Message:23 - Finding element by identifier //div[@gh='s']/*[@role='button'] using xpath
+2016-06-19 20:32:47 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> xpath: //div[@gh='s']/*[@role='button']]
+2016-06-19 20:32:47 [main] INFO  file Message:23 - Finding element by identifier ms using id
+2016-06-19 20:32:47 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> id: ms]
+2016-06-19 20:32:47 [main] INFO  file Message:23 - Finding element by identifier //label[text()='Vacation responder on']/../../..//input using xpath
+2016-06-19 20:32:55 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> xpath: //label[text()='Vacation responder on']/../../..//input]
+2016-06-19 20:32:55 [main] INFO  file Message:23 - Finding element by identifier //label[text()='First day:']/../../td[3]//input using xpath
+2016-06-19 20:32:55 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> xpath: //label[text()='First day:']/../../td[3]//input]
+2016-06-19 20:32:55 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> xpath: (//table/tbody//td[text()='20'])[1]]
+2016-06-19 20:32:55 [main] INFO  file Message:23 - Finding element by identifier //input[@aria-label='Subject'] using xpath
+2016-06-19 20:32:56 [main] INFO  file Message:23 - Setting the text area with string: Out Of Office
+2016-06-19 20:32:56 [main] INFO  file Message:23 - Finding element by identifier //div[@aria-label='Vacation responder'] using xpath
+2016-06-19 20:32:56 [main] INFO  file Message:23 - Setting the text area with string: Annual Leave
+2016-06-19 20:32:56 [main] INFO  file Message:23 - Finding element by identifier //button[text()='Save Changes'] using xpath
+2016-06-19 20:32:56 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> xpath: //button[text()='Save Changes']]
+2016-06-19 20:32:56 [main] INFO  file Message:23 - Finding element by identifier //div[@gh='s']/*[@role='button'] using xpath
+2016-06-19 20:32:56 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> xpath: //div[@gh='s']/*[@role='button']]
+2016-06-19 20:32:56 [main] INFO  file Message:23 - Finding element by identifier ms using id
+2016-06-19 20:32:56 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> id: ms]
+2016-06-19 20:32:56 [main] INFO  file Message:23 - Finding element by identifier //label[text()='Vacation responder on']/../../..//input using xpath
+2016-06-19 20:32:57 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> xpath: //a[contains(@title,'teitotestproject@gmail.com')]]
+2016-06-19 20:32:57 [main] INFO  file Message:23 - Finding element by identifier //a[text()='Sign out'] using xpath
+2016-06-19 20:32:57 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (179f88fbfe9a22cbd0e596b1fd5f806e)] -> xpath: //a[text()='Sign out']]
+2016-06-19 20:33:49 [main] INFO  file Message:23 - Finding element by identifier Email using id
+2016-06-19 20:33:49 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:33:49 [main] INFO  file Message:23 - Finding element by identifier next using id
+2016-06-19 20:33:49 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> id: next]
+2016-06-19 20:33:49 [main] INFO  file Message:23 - Finding element by identifier Passwd using id
+2016-06-19 20:33:50 [main] INFO  file Message:23 - Setting the text area with string: teitotestprojectpwd
+2016-06-19 20:33:50 [main] INFO  file Message:23 - Finding element by identifier signIn using id
+2016-06-19 20:33:50 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> id: signIn]
+2016-06-19 20:33:50 [main] INFO  file Message:23 - Finding element by identifier //a[contains(@title,'Inbox')] using xpath
+2016-06-19 20:33:51 [main] INFO  file Message:23 - Waiting for time: 10 seconds 
+2016-06-19 20:34:01 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: //a[contains(@title,'Inbox')]]
+2016-06-19 20:34:02 [main] INFO  file Message:23 - Finding element by identifier //div[text()='COMPOSE'] using xpath
+2016-06-19 20:34:03 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: //div[text()='COMPOSE']]
+2016-06-19 20:34:03 [main] INFO  file Message:23 - Finding element by identifier to using name
+2016-06-19 20:34:09 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:34:10 [main] INFO  file Message:23 - Finding element by identifier subjectbox using name
+2016-06-19 20:34:10 [main] INFO  file Message:23 - Setting the text area with string: Test Subject
+2016-06-19 20:34:11 [main] INFO  file Message:23 - Finding element by identifier //div[@aria-label='Message Body'] using xpath
+2016-06-19 20:34:11 [main] INFO  file Message:23 - Setting the text area with string: Test Msg Body
+2016-06-19 20:34:11 [main] INFO  file Message:23 - Finding element by identifier //div[text()='Send'] using xpath
+2016-06-19 20:34:11 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: //div[text()='Send']]
+2016-06-19 20:34:11 [main] INFO  file Message:23 - Getting the text value...
+2016-06-19 20:34:11 [main] INFO  file Message:23 - Finding element by identifier //*[text()[contains(.,'Your message has been sent')]] using xpath
+2016-06-19 20:34:12 [main] INFO  file Message:23 - The text value is:Your message has been sent. View message
+2016-06-19 20:34:12 [main] INFO  file Message:23 - Finding element by identifier //div[@gh='s']/*[@role='button'] using xpath
+2016-06-19 20:34:12 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: //div[@gh='s']/*[@role='button']]
+2016-06-19 20:34:12 [main] INFO  file Message:23 - Finding element by identifier ms using id
+2016-06-19 20:34:12 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> id: ms]
+2016-06-19 20:34:12 [main] INFO  file Message:23 - Finding element by identifier //label[text()='Vacation responder on']/../../..//input using xpath
+2016-06-19 20:34:14 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: //label[text()='Vacation responder on']/../../..//input]
+2016-06-19 20:34:14 [main] INFO  file Message:23 - Finding element by identifier //label[text()='First day:']/../../td[3]//input using xpath
+2016-06-19 20:34:14 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: //label[text()='First day:']/../../td[3]//input]
+2016-06-19 20:34:14 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: (//table/tbody//td[text()='20'])[1]]
+2016-06-19 20:34:14 [main] INFO  file Message:23 - Finding element by identifier //input[@aria-label='Subject'] using xpath
+2016-06-19 20:34:14 [main] INFO  file Message:23 - Setting the text area with string: Out Of Office
+2016-06-19 20:34:14 [main] INFO  file Message:23 - Finding element by identifier //div[@aria-label='Vacation responder'] using xpath
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Setting the text area with string: Annual Leave
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Finding element by identifier //button[text()='Save Changes'] using xpath
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: //button[text()='Save Changes']]
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Finding element by identifier //div[@gh='s']/*[@role='button'] using xpath
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: //div[@gh='s']/*[@role='button']]
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Finding element by identifier ms using id
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> id: ms]
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Finding element by identifier //label[text()='Vacation responder on']/../../..//input using xpath
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: //a[contains(@title,'teitotestproject@gmail.com')]]
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Finding element by identifier //a[text()='Sign out'] using xpath
+2016-06-19 20:34:15 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (2ac8bfb811f83ee65fadb7e1a7df28b5)] -> xpath: //a[text()='Sign out']]
+2016-06-19 20:36:02 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:36:02 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (02e92abd6ebab3c8f544a5cb60bd99f3)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:36:02 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:36:05 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:36:05 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:36:05 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:36:05 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:36:05 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (02e92abd6ebab3c8f544a5cb60bd99f3)] -> id: signInSubmit]
+2016-06-19 20:36:06 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:36:11 [main] INFO  file Message:23 - Finding element by identifier nav-item-signout using id
+2016-06-19 20:40:48 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:41:02 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c337d4237d2e9f1f4f4e299ba2a0b1a9)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:41:02 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:41:09 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:41:09 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:41:09 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:41:10 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:41:10 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (c337d4237d2e9f1f4f4e299ba2a0b1a9)] -> id: signInSubmit]
+2016-06-19 20:41:10 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:41:15 [main] INFO  file Message:23 - Finding element by identifier nav-item-signout using id
+2016-06-19 20:43:58 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:44:09 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (33c56f3e1edd51e50468e5038d9960a3)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:44:09 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:44:11 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:44:12 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:44:12 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:44:12 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:44:12 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (33c56f3e1edd51e50468e5038d9960a3)] -> id: signInSubmit]
+2016-06-19 20:44:12 [main] INFO  file Message:23 - Waiting for time: 20 seconds 
+2016-06-19 20:44:32 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:44:36 [main] INFO  file Message:23 - Finding element by identifier nav-item-signout using id
+2016-06-19 20:58:13 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:58:13 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (eae9b6650f83377bba21ea9d96b47458)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:58:13 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:58:20 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:58:20 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:58:21 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:58:21 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:58:21 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (eae9b6650f83377bba21ea9d96b47458)] -> id: signInSubmit]
+2016-06-19 20:58:21 [main] INFO  file Message:23 - Waiting for time: 20 seconds 
+2016-06-19 20:58:41 [main] INFO  file Message:23 - Hovering on element: nav-link-yourAccount
+2016-06-19 20:58:41 [main] INFO  file Message:23 - Waiting for element [nav-link-yourAccount] to appear for 20 seconds.
+2016-06-19 20:58:41 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:58:41 [main] INFO  file Message:23 - Finding element by identifier nav-link-yourAccount using id
+2016-06-19 20:58:41 [main] INFO  file Message:23 - Mouse hover on element: [[ChromeDriver: chrome on XP (eae9b6650f83377bba21ea9d96b47458)] -> id: nav-link-yourAccount]
+2016-06-19 20:58:41 [main] INFO  file Message:23 - Waiting for time: 2 seconds 
+2016-06-19 20:58:43 [main] INFO  file Message:23 - Finding element by identifier nav-item-signout using id
+2016-06-19 20:58:43 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (eae9b6650f83377bba21ea9d96b47458)] -> id: nav-item-signout]
+2016-06-19 20:59:48 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 20:59:48 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (509972e35a69ac6e04a6cc34eda49372)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 20:59:48 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 20:59:50 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 20:59:51 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 20:59:51 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 20:59:51 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 20:59:51 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (509972e35a69ac6e04a6cc34eda49372)] -> id: signInSubmit]
+2016-06-19 20:59:51 [main] INFO  file Message:23 - Waiting for time: 20 seconds 

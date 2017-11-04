@@ -1,0 +1,48 @@
+2016-06-19 14:13:51 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 14:13:51 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (9c93d255fcba0e2866d656fc38d4512f)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 14:13:51 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 14:13:55 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 14:13:55 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 14:13:56 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 14:13:56 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 14:13:56 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (9c93d255fcba0e2866d656fc38d4512f)] -> id: signInSubmit]
+2016-06-19 14:15:09 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 14:15:09 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (a3e411fbdf59045dc8dce7f83850e12a)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 14:15:09 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 14:15:11 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 14:15:11 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 14:15:11 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 14:15:12 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 14:15:12 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (a3e411fbdf59045dc8dce7f83850e12a)] -> id: signInSubmit]
+2016-06-19 14:25:45 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 14:25:45 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (8c82d38138dd19a7152c85d2325171b7)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 14:25:45 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 14:25:47 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 14:25:47 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 14:25:47 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 14:25:47 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 14:25:47 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (8c82d38138dd19a7152c85d2325171b7)] -> id: signInSubmit]
+2016-06-19 14:26:17 [main] INFO  file Message:23 - Hovering on element: //span[text()='Hello. Sign in']
+2016-06-19 14:26:17 [main] INFO  file Message:23 - Waiting for element [//span[text()='Hello. Sign in']] to appear for 20 seconds.
+2016-06-19 14:26:17 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 14:28:04 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 14:28:04 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (7c32bf7f9b0cca2f94a03072e3c4ca08)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 14:28:04 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 14:28:07 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 14:28:07 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 14:28:07 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 14:28:07 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 14:28:07 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (7c32bf7f9b0cca2f94a03072e3c4ca08)] -> id: signInSubmit]
+2016-06-19 14:28:37 [main] INFO  file Message:23 - Hovering on element: //span[text()='Hello. Sign in']
+2016-06-19 14:28:37 [main] INFO  file Message:23 - Waiting for element [//span[text()='Hello. Sign in']] to appear for 20 seconds.
+2016-06-19 14:28:37 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 14:37:39 [main] INFO  file Message:23 - Finding element by identifier //span[text()='Hello. Sign in'] using xpath
+2016-06-19 14:37:39 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (d1265f4d31548e9617b926da2ae3a573)] -> xpath: //span[text()='Hello. Sign in']]
+2016-06-19 14:37:39 [main] INFO  file Message:23 - Finding element by identifier ap_email using id
+2016-06-19 14:37:41 [main] INFO  file Message:23 - Setting the text area with string: teitotestproject@gmail.com
+2016-06-19 14:37:42 [main] INFO  file Message:23 - Finding element by identifier ap_password using id
+2016-06-19 14:37:42 [main] INFO  file Message:23 - Setting the text area with string: passamazon
+2016-06-19 14:37:42 [main] INFO  file Message:23 - Finding element by identifier signInSubmit using id
+2016-06-19 14:37:42 [main] INFO  file Message:23 - Clicking on element: [[ChromeDriver: chrome on XP (d1265f4d31548e9617b926da2ae3a573)] -> id: signInSubmit]
+2016-06-19 14:38:12 [main] INFO  file Message:23 - Hovering on element: [[ChromeDriver: chrome on XP (d1265f4d31548e9617b926da2ae3a573)] -> xpath: //*[@id='nav-link-yourAccount']/span[text()='Hello, TeitoFirst']]
+2016-06-19 14:38:12 [main] INFO  file Message:23 - Finding element by identifier nav-item-signout'] using id
