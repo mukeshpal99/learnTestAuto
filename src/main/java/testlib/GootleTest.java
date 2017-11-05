@@ -1,9 +1,9 @@
 package testlib;
 
 import org.junit.AfterClass;
-import org.junit.BeforeClass;
-import org.junit.Test;
 import org.testng.Assert;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
 import applib.common.BasePage;
 import applib.common.ElementLocator;
@@ -26,7 +26,7 @@ public class GootleTest {
 
 
 
-	@Test
+	@Test(groups={"regression"})
 	public void verifySendEmail() 
 	{
 		basePage.selenium.click(ElementLocator.GmailInboxPage.lnkInbox_xpath, "xpath");
