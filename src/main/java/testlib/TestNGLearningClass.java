@@ -14,8 +14,7 @@ public class TestNGLearningClass {
 	}
 
 
-
-	@Test(groups={"regression"})
+	@Test(groups={"regression", "smoke"})
 	public void test1() 
 	{
 		System.out.println("Running Test 1");
@@ -30,7 +29,7 @@ public class TestNGLearningClass {
 	}
 	
 	
-	@Test
+	@Test(groups={"regression"})
 	public void test3()
 	{
 		System.out.println("Running Test 3");
@@ -38,7 +37,7 @@ public class TestNGLearningClass {
 	
 	}
 	
-	@Test
+	@Test(groups={"regression"})
 	public void test4()
 	{
 		System.out.println("Running Test 4");
@@ -59,6 +58,6 @@ public class TestNGLearningClass {
 	public static void tearDownAfterClass() throws Exception 
 	{
 		System.out.println("Running closing  code");
-	} 
+	} 	
 
 }

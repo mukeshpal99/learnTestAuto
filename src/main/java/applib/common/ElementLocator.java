@@ -5,8 +5,8 @@ public class ElementLocator
 	
 	public interface GmainLoginPage
 	{
-		public static final String txtEmail_id = "Email";
-		public static final String btnNext_id = "next";
+		public static final String txtEmail_id = "identifierId";
+		public static final String btnNext_id = "identifierNext";
 		public static final String txtPassword_id = "Passwd";
 		public static final String btnSignIn_id = "signIn";
 	}
